@@ -1,0 +1,16 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    min-height: 400px;
+}
+
+.box{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color:lightsalmon;
+}
+
+/*# sourceMappingURL=/animation.2a95f036.css.map */
